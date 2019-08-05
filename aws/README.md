@@ -7,5 +7,5 @@
 
 # Microservices
 
-- https://raw.githubusercontent.com/user/repository/master/release/release/cart-0.0.1-SNAPSHOT.jar
-- https://raw.githubusercontent.com/user/repository/master/release/release/product-0.0.1-SNAPSHOT.jar
+- https://github.com/johnowl/owl-aws-studies/raw/master/release/cart-0.0.1-SNAPSHOT.jar
+- https://github.com/johnowl/owl-aws-studies/raw/master/release/product-0.0.1-SNAPSHOT.jar
